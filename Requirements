@@ -1,0 +1,6 @@
+#download required library to import TextBlob library 
+nltk.download('brown')
+nltk.download('punkt')
+
+!pip install pyprind
+!pip install tqdm
